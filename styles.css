@@ -328,7 +328,7 @@ body {
 
 .action-button {
   background: white;
-  color: var(--text-primary);
+  color: black;
   border: 1px solid var(--border-color);
   margin-bottom: 0.75rem;
 }
