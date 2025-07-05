@@ -1182,3 +1182,9 @@ body {
     flex-direction: column;
   }
 }
+
+@media (max-width:480px){
+  .game-card{
+    display: none;
+  }
+}
